@@ -1,1 +1,1 @@
-Voici le document 2 pour l'exervice sur Git.
+Voici le document 2 pour l'exercice sur Git.
