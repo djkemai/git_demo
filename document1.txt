@@ -4,4 +4,6 @@ Voici mon document 1 pour l'exercie sur Git.
 
 Ajout d'une ligne de texte pour un premier commit.
 
-Ajout d'une seconde ligne pour second commit.
+Suppression de la seconde ligne 
+et 
+Ajout d'une ligne pour 3e commit.
