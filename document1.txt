@@ -1,3 +1,5 @@
 Bonjour,
 
 Voici mon document 1 pour l'exercie sur Git.
+
+Ajout d'une ligne de texte pour un premier commit.
